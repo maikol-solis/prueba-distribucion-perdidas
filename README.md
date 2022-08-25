@@ -1,5 +1,6 @@
-# prueba-distribucion-perdidas
 
+# prueba-distribucion-perdidas
+Randall Chaves Leon
 Prof. Maikol Solís. 
 Leonardo Blanco
 Brandon Guido
