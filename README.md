@@ -1,9 +1,9 @@
-
 # prueba-distribucion-perdidas
-Randall Chaves Leon
 Prof. Maikol Solís. 
+Randall Chaves Leon
 Leonardo Blanco
 Brandon Guido
 Dani
 Leandro  Morera
 Daniel Núñez Vargas
+#prueba
