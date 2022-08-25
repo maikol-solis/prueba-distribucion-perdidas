@@ -1,3 +1,2 @@
 # prueba-distribucion-perdidas
-
-Prof. Maikol Solís. 
+Daniel Núñez Vargas
